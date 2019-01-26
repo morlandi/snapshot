@@ -1,4 +1,5 @@
-##snapshot
+snapshot
+========
 
 Fun with `OpenCV`
 
